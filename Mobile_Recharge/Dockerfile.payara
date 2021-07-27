@@ -1,0 +1,2 @@
+FROM ivonet/payara:5.184
+COPY ./artifact/Mobile_Recharge.war /autodeploy/
